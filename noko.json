@@ -176,18 +176,18 @@
         },
         "Minutes": {
             "OnlyBorder": false,
-            "Color": "0xFFFFFF",
+            "Color": "0xFFFF00",
             "Center": {
                 "X": 88,
                 "Y": 88
             },
             "Shape": [
                 {
-                    "X": 79,
+                    "X": 88,
                     "Y": 0
                 },
                 {
-                    "X": 76,
+                    "X": 70,
                     "Y": 3
                 },
                 {
@@ -211,11 +211,11 @@
                     "Y": -3
                 },
                 {
-                    "X": 76,
+                    "X": 70,
                     "Y": -3
                 }
             ],
-            "CenterImage": {
+	    "CenterImage": {
                 "X": 85,
                 "Y": 85,
                 "ImageIndex": 41
@@ -223,7 +223,7 @@
         },
         "Seconds": {
             "OnlyBorder": false,
-            "Color": "0xFFFF00",
+            "Color": "0x00FFFF",
             "Center": {
                 "X": 88,
                 "Y": 88
