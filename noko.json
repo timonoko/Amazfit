@@ -1,0 +1,283 @@
+{
+    "Background": {
+        "Image": {
+            "X": 0,
+            "Y": 0,
+            "ImageIndex": 0
+        }
+    },
+    "Time": {
+        "Hours": {
+            "Tens": {
+                "X": 1,
+                "Y": 2,
+                "ImageIndex": 1,
+                "ImagesCount": 10
+            },
+            "Ones": {
+                "X": 15,
+                "Y": 2,
+                "ImageIndex": 1,
+                "ImagesCount": 10
+            }
+        },
+        "Minutes": {
+            "Tens": {
+                "X": 34,
+                "Y": 2,
+                "ImageIndex": 1,
+                "ImagesCount": 10
+            },
+            "Ones": {
+                "X": 48,
+                "Y": 2,
+                "ImageIndex": 1,
+                "ImagesCount": 10
+            }
+        },
+        "DrawingOrder": "1234"
+    },
+    "Date": {
+        "WeekDay": {
+            "X": -8,
+            "Y": 75,
+            "ImageIndex": 31,
+            "ImagesCount": 7
+        },
+        "MonthAndDay": {
+            "TwoDigitsMonth": true,
+            "TwoDigitsDay": true,
+            "Separate": {
+                "Day": {
+                    "TopLeftX": 146,
+                    "TopLeftY": 81,
+                    "BottomRightX": 176,
+                    "BottomRightY": 175,
+                    "Alignment": "TopCenter",
+                    "Spacing": 2,
+                    "ImageIndex": 21,
+                    "ImagesCount": 10
+                }
+            }
+        }
+    },
+    "Status": {
+        "Alarm": {
+            "Coordinates": {
+                "X": 83,
+                "Y": 6
+            },
+            "ImageIndexOn": 40,
+            "ImageIndexOff": 41
+        },
+        "Bluetooth": {
+            "Coordinates": {
+                "X": 81,
+                "Y": 81
+            },
+            "ImageIndexOn": 38,
+            "ImageIndexOff": 39
+        },
+        "Lock": {
+            "Coordinates": {
+                "X": 10,
+                "Y": 83
+            },
+            "ImageIndexOn": 41,
+            "ImageIndexOff": 41
+        }
+    },
+    "Battery": {
+        "Text": {
+            "TopLeftX": 126,
+            "TopLeftY": 160,
+            "BottomRightX": 158,
+            "BottomRightY": 173,
+            "Alignment": "TopRight",
+            "Spacing": 3,
+            "ImageIndex": 21,
+            "ImagesCount": 10
+        }
+    },
+    "Activity": {
+        "Steps": {
+            "TopLeftX": 100,
+            "TopLeftY": 3,
+            "BottomRightX": 160,
+            "BottomRightY": 17,
+            "Alignment": "TopRight",
+            "Spacing": 1,
+            "ImageIndex": 200,
+            "ImagesCount": 10
+        },
+        "Pulse": {
+            "TopLeftX": 12,
+            "TopLeftY": 150,
+            "BottomRightX": 30,
+            "BottomRightY": 172,
+            "Alignment": "TopLeft",
+            "Spacing": 3,
+            "ImageIndex": 1,
+            "ImagesCount": 10
+        }
+    },
+    "Weather": {
+        "Icon": {
+            "CustomIcon": {
+                "X": 74,
+                "Y": 32,
+                "ImageIndex": 267,
+                "ImagesCount": 26
+            }
+        }
+    },
+    "AnalogDialFace": {
+        "Hours": {
+            "OnlyBorder": false,
+            "Color": "0xFFFFFF",
+            "Center": {
+                "X": 88,
+                "Y": 88
+            },
+            "Shape": [
+                {
+                    "X": 60,
+                    "Y": 0
+                },
+                {
+                    "X": 57,
+                    "Y": 4
+                },
+                {
+                    "X": 10,
+                    "Y": 4
+                },
+                {
+                    "X": 11,
+                    "Y": 1
+                },
+                {
+                    "X": 11,
+                    "Y": 0
+                },
+                {
+                    "X": 11,
+                    "Y": -1
+                },
+                {
+                    "X": 10,
+                    "Y": -4
+                },
+                {
+                    "X": 57,
+                    "Y": -4
+                }
+            ]
+        },
+        "Minutes": {
+            "OnlyBorder": false,
+            "Color": "0xFFFFFF",
+            "Center": {
+                "X": 88,
+                "Y": 88
+            },
+            "Shape": [
+                {
+                    "X": 79,
+                    "Y": 0
+                },
+                {
+                    "X": 76,
+                    "Y": 3
+                },
+                {
+                    "X": 10,
+                    "Y": 3
+                },
+                {
+                    "X": 10,
+                    "Y": 1
+                },
+                {
+                    "X": 11,
+                    "Y": 0
+                },
+                {
+                    "X": 10,
+                    "Y": -1
+                },
+                {
+                    "X": 10,
+                    "Y": -3
+                },
+                {
+                    "X": 76,
+                    "Y": -3
+                }
+            ],
+            "CenterImage": {
+                "X": 85,
+                "Y": 85,
+                "ImageIndex": 41
+            }
+        },
+        "Seconds": {
+            "OnlyBorder": false,
+            "Color": "0xFFFF00",
+            "Center": {
+                "X": 88,
+                "Y": 88
+            },
+            "Shape": [
+                {
+                    "X": 70,
+                    "Y": -1
+                },
+                {
+                    "X": 10,
+                    "Y": -1
+                },
+                {
+                    "X": 10,
+                    "Y": 1
+                },
+                {
+                    "X": 70,
+                    "Y": 1
+                },
+                {
+                    "X": 74,
+                    "Y": 5
+                },
+                {
+                    "X": 76,
+                    "Y": 7
+                },
+                {
+                    "X": 81,
+                    "Y": 6
+                },
+                {
+                    "X": 84,
+                    "Y": 2
+                },
+                {
+                    "X": 84,
+                    "Y": -2
+                },
+                {
+                    "X": 81,
+                    "Y": -6
+                },
+                {
+                    "X": 76,
+                    "Y": -7
+                },
+                {
+                    "X": 74,
+                    "Y": -5
+                }
+            ]
+        }
+    }
+}
