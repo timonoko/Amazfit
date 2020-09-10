@@ -89,10 +89,10 @@
     },
     "Battery": {
         "Text": {
-            "TopLeftX": 126,
-            "TopLeftY": 160,
-            "BottomRightX": 158,
-            "BottomRightY": 173,
+            "TopLeftX": 131,
+            "TopLeftY": 16,
+            "BottomRightX": 163,
+            "BottomRightY": 29,
             "Alignment": "TopRight",
             "Spacing": 3,
             "ImageIndex": 21,
@@ -124,8 +124,8 @@
     "Weather": {
         "Icon": {
             "CustomIcon": {
-                "X": 74,
-                "Y": 32,
+                "X": 141,
+                "Y": 141,
                 "ImageIndex": 267,
                 "ImagesCount": 26
             }
@@ -145,32 +145,28 @@
                     "Y": 0
                 },
                 {
-                    "X": 57,
+                    "X": 42,
+                    "Y": 10
+                },
+                {
+                    "X": 42,
                     "Y": 4
                 },
                 {
-                    "X": 10,
+                    "X": 20,
                     "Y": 4
                 },
                 {
-                    "X": 11,
-                    "Y": 1
-                },
-                {
-                    "X": 11,
-                    "Y": 0
-                },
-                {
-                    "X": 11,
-                    "Y": -1
-                },
-                {
-                    "X": 10,
+                    "X": 20,
                     "Y": -4
                 },
                 {
-                    "X": 57,
+                    "X": 42,
                     "Y": -4
+                },
+                {
+                    "X": 42,
+                    "Y": -10
                 }
             ]
         },
@@ -215,7 +211,7 @@
                     "Y": -3
                 }
             ],
-	    "CenterImage": {
+            "CenterImage": {
                 "X": 85,
                 "Y": 85,
                 "ImageIndex": 41
